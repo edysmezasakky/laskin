@@ -15,7 +15,7 @@ body {
   display: grid;
   place-items: center;
   padding: 1rem;
-  background: gray;
+  background: radial-gradient(circle at top, #5d636b, #484848 55%);
 }
 
 .calculator {
